@@ -1,4 +1,4 @@
-# IBS-Emotion_Recognition=Signal_Processing_Project
+# IBS-Emotion_Recognition-Signal_Processing_Project
 Project in Python / Jupyter Notebook / Whisper Model / at IBS [2025]
 Dataset: https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
 
